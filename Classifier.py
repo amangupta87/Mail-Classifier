@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys
 from time import time
 sys.path.append("../Mail_Classifier/")
